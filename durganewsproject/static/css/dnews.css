@@ -1,0 +1,17 @@
+.jumbotron{
+    margin-top:200px;
+}
+body{
+    background:url(https://media.istockphoto.com/id/467367026/photo/perfect-sky-and-ocean.jpg?b=1&s=170667a&w=0&k=20&c=imnXv2l7rNU6sTDu-B4y95vkh-AlfIe7vlYcFdZtCy8=);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+ul{
+
+}
+img{
+    width:200px;
+    height:200px;
+    border:10px solid red;
+    margin:10px;
+}
